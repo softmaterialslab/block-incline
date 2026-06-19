@@ -1,4 +1,6 @@
   // This is a code to simulate dynamics of one-particle systems
+  // Vikram Jadhao and Vijay G. Jadhao
+  // June 19, 2026
 
   #include<iostream>
   #include<fstream>
